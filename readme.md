@@ -25,25 +25,25 @@ Built with Python, Streamlit, and OpenAI API, the app runs locally in your brows
 - `python-dotenv`  
 - Git
  
-------------
-####✅ 1. Clone the Repository
 
-bash
+✅ 1. Clone the Repository
 git clone https://github.com/MuhammedSafvan-EK/AI-PYTHON-Trip-Assistant.git
 cd dubai-trip-assistant
-------------
+
+
 ✅ 2. Create and Activate Virtual Environment
 bash
 Copy
 Edit
 python -m venv venv
 
-#### Windows
+ Windows
 venv\Scripts\activate
 
-#### macOS/Linux
+ macOS/Linux
 source venv/bin/activate
--------------
+
+
 ✅ 3. Install Dependencies
 bash
 Copy
@@ -54,7 +54,8 @@ bash
 Copy
 Edit
 pip install streamlit openai python-dotenv
---------------
+
+
 ✅ 4. Add OpenAI API Key
 Create a .env file in the project root:
 
@@ -63,14 +64,15 @@ Copy
 Edit
 OPENAI_API_KEY=your-openai-key-here
 🔐 Never share your .env file publicly!
-----------------
+
+
 ✅ 5. Run the App
 bash
 Copy
 Edit
 streamlit run app.py
 Visit http://localhost:8501 in your browser.
------------------
+
 
 ## steps
 1.create OpenAInAPI account
