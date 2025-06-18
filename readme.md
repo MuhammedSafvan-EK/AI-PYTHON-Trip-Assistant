@@ -27,19 +27,19 @@ Built with Python, Streamlit, and OpenAI API, the app runs locally in your brows
  
 ## steps
 
-1.create OpenAInAPI account 
-2.copy API_KEY to secure file
-3.create .env- environment variable
-4.store API key
-5.ReferOpen AI Doc and Implement
+1.create OpenAInAPI account  <br>
+2.copy API_KEY to secure file <br>
+3.create .env- environment variable <br>
+4.store API key <br>
+5.ReferOpen AI Doc and Implement <br>
 
 
 ### implementation plan
 
-1.show messages
-2.show textbox for input
-3.once user input enter message,pass to openai
-4.store response into message list and show in screen
+1.show messages <br>
+2.show textbox for input <br>
+3.once user input enter message,pass to openai <br>
+4.store response into message list and show in screen <br>
 
 
 #### ✅ Run the App
